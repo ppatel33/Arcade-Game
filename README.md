@@ -1,10 +1,14 @@
+check it out at: http://ppatel33.github.io/Arcade-Game/
+
 # Arcade-Game
 HTML Canvas, Object Oriented JavaScript, CSS, HTML
 
+--------------------
 PROJECT DESCRIPTION
 --------------------
 
-- Arcade game in which  goal of player is to reach water without 	colliding into any of enemies. This project has basic game 	functionality but covers advanced Object-Oriented 	JavaScript concepts and HTML5 Canvas.
+Arcade game in which  goal of player is to reach water without 	colliding into any of enemies. This project has basic game 	functionality but covers advanced Object-Oriented 	JavaScript concepts and HTML5 Canvas.
+
 ----------------------
 How to play
 ----------------------
